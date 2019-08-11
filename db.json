@@ -1,0 +1,36 @@
+{
+  "name":"Apple",
+  "price":200,
+  "ram":6,
+  "camera":{
+    "front":8,
+    "back":13
+  }
+},
+{
+  "name":"Samsung",
+  "price":150,
+  "ram":6,
+  "camera":{
+    "front":8,
+    "back":13
+  }
+},
+{
+  "name":"Blackberry",
+  "price":120,
+  "ram":4,
+  "camera":{
+    "front":8,
+    "back":20
+  }
+},
+{
+  "name":"Redmi",
+  "price":80,
+  "ram":8,
+  "camera":{
+    "front":13,
+    "back":24
+  }
+}
