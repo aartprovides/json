@@ -1,4 +1,5 @@
 {
+  "devices":[{
   "name":"Apple",
   "price":200,
   "ram":6,
@@ -33,4 +34,5 @@
     "front":13,
     "back":24
   }
+}]
 }
